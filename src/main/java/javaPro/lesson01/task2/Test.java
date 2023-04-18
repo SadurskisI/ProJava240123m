@@ -1,7 +1,7 @@
-package lesson01.task2;
+package javaPro.lesson01.task2;
 
-import lesson01.task1.Dog;
-import lesson01.task3.Cat;
+import javaPro.lesson01.task3.Cat;
+import javaPro.lesson01.task1.Dog;
 
 public class Test {
     public static void main(String[] args) {

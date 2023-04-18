@@ -1,4 +1,4 @@
-package lesson01.task1;
+package javaPro.lesson01.task1;
 
 public class DogTest {
     public static void main(String[] args) {
