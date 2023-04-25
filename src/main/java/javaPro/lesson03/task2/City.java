@@ -1,0 +1,69 @@
+package javaPro.lesson03.task2;
+
+public enum City {
+    BERLIN("Берлин", 3_000_000){
+        @Override
+        public boolean isPopular() {
+            return true;
+        }
+    },
+    PARIS("Париж", 3_500_000){
+        @Override
+        public boolean isPopular() {
+            return true;
+        }
+    },
+    LONDON("Лондон",9_000_000){
+        @Override
+        public boolean isPopular() {
+            return true;
+        }
+    },
+    RIGA("Рига",600_000){
+        @Override
+        public boolean isPopular() {
+            return true;
+        }
+    },
+    MADRID("Мадрид",2_000_000){
+        @Override
+        public boolean isPopular() {
+            return true;
+        }
+    },
+    ROME("Ром",2_800_000){
+        @Override
+        public boolean isPopular() {
+            return true;
+        }
+    },
+    LISBON("Лисабон",500_000){
+        @Override
+        public boolean isPopular() {
+            return false;
+        }
+    };
+
+    private String rusName;
+    private int population;
+    private boolean isNeedRusianName;
+
+    City(String rusName, int population) {
+        System.out.println("Вызван конструктор City с "+ rusName);
+        this.rusName = rusName;
+        this.population = population;
+    }
+
+    @Override
+    public String toString() {
+        return "Город: " + name() + "; Русское название: " + rusName + "; Население: " + population+";";
+    }
+
+    public String toString(boolean isNeedRussianName) {
+        if (isNeedRussianName) {
+            return "Город: " + name() + "; Русское название: " + rusName + "; Население: " + population + ";";
+        }
+        return "Город: " + name() + "; Население: " + population + ";";
+    }
+    public abstract boolean isPopular();
+}

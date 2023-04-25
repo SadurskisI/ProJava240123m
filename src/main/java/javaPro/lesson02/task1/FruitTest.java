@@ -29,5 +29,7 @@ public class FruitTest {
 
         System.out.println("Создаём ананас с размером и цветом");
         Ananas ananas3 = new Ananas(4, "Зелёный");
+
+
     }
 }
