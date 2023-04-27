@@ -5,14 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="100bec65-eb4c-4b65-b068-fdfaca239894" name="Changes" comment="Java pro lessons">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson03/task1/Day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson03/task1/DayAnalog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson03/task1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson03/task2/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson03/task2/CityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson03/task3/Deal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework2/CardNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework2/Deal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework2/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework2/GameDeck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework2/Players.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework2/Rank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework2/Shuffle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework2/Suits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson4/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson4/task1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson4/task2/AutoboxingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson4/task3/AutoboxingMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson4/task4/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson4/task4/SquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson4/task5/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson4/task5/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson4/task5/BookTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaPro/lesson02/task1/FruitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson02/task1/FruitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaPro/lesson03/task3/Deal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson03/task3/Deal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +34,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Enum" />
         <option value="Class" />
       </list>
@@ -74,13 +87,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Deal">
-    <configuration name="CityTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPro.lesson03.task2.CityTest" />
+  <component name="RunManager" selected="Application.javaPro.homeworks.homework2.Deal">
+    <configuration name="AutoboxingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPro.lesson4.task2.AutoboxingTest" />
       <module name="ProJava240123m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPro.lesson03.task2.*" />
+          <option name="PATTERN" value="javaPro.lesson4.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPro.lesson4.task5.BookTest" />
+      <module name="ProJava240123m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaPro.lesson4.task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaSummary.lesson01.DogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaSummary.lesson01.DogTest" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPro.lesson4.task1.Main" />
       <module name="ProJava240123m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaSummary.lesson01.*" />
+          <option name="PATTERN" value="javaPro.lesson4.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,25 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPro.lesson03.task1.Test" />
+    <configuration name="javaPro.homeworks.homework2.Deal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPro.homeworks.homework2.Deal" />
       <module name="ProJava240123m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPro.lesson03.task1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="javaPro.lesson01.task1.DogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPro.lesson01.task1.DogTest" />
-      <module name="ProJava240123m" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaPro.lesson01.task1.*" />
+          <option name="PATTERN" value="javaPro.homeworks.homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.javaPro.homeworks.homework2.Deal" />
+        <item itemvalue="Application.BookTest" />
+        <item itemvalue="Application.AutoboxingTest" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Deal" />
-        <item itemvalue="Application.CityTest" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.JavaSummary.lesson01.DogTest" />
-        <item itemvalue="Application.javaPro.lesson01.task1.DogTest" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682066282421</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Java pro lessons">
+      <created>1682421239442</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682421239442</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
