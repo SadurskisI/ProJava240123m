@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="100bec65-eb4c-4b65-b068-fdfaca239894" name="Changes" comment="Java pro lessons" />
+    <list default="true" id="100bec65-eb4c-4b65-b068-fdfaca239894" name="Changes" comment="Java pro lessons">
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson02/CloneExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson02/plan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson02/shoppingList/Requirements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson02/shoppingList/ShoppingListApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson02/shoppingList/businessLogic/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson02/shoppingList/database/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson02/shoppingList/database/ProductRepositoryArrayImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson02/shoppingList/domain/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson02/shoppingList/ui/AddProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson02/shoppingList/ui/ExitMenuCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson02/shoppingList/ui/GetAllProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson02/shoppingList/ui/MenuCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson02/shoppingList/ui/UserMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaPractice/lesson1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPractice/lesson1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaSummary/lesson01/CatDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson01/CatDog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaSummary/lesson01/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson01/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaSummary/lesson01/DogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson01/DogTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaSummary/lesson01/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson01/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaPro/lesson4/task5/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson4/task5/Book.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +87,15 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\ProJava240123m\src\main\java\javaSummary\lesson02" />
+      <recent name="C:\Users\User\IdeaProjects\ProJava240123m\src\main\java\javaSummary\lesson02\shoppingList\ui" />
+      <recent name="C:\Users\User\IdeaProjects\ProJava240123m\src\main\java\javaSummary\lesson02\shoppingList\domain" />
+      <recent name="C:\Users\User\IdeaProjects\ProJava240123m\src\main\java\javaSummary\lesson02\shoppingList\database" />
+      <recent name="C:\Users\User\IdeaProjects\ProJava240123m\src\main\java\javaSummary\lesson02\shoppingList\businessLogic" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.javaPro.homeworks.homework2.Deal">
     <configuration name="AutoboxingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaPro.lesson4.task2.AutoboxingTest" />
@@ -93,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Deal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPro.lesson03.task3.Deal" />
+    <configuration name="CloneExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaSummary.lesson02.CloneExample" />
       <module name="ProJava240123m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPro.lesson03.task3.*" />
+          <option name="PATTERN" value="javaSummary.lesson02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,10 +165,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.javaPro.homeworks.homework2.Deal" />
+        <item itemvalue="Application.CloneExample" />
         <item itemvalue="Application.BookTest" />
         <item itemvalue="Application.AutoboxingTest" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Deal" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682605136871</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Java pro lessons">
+      <created>1682667461976</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682667461976</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

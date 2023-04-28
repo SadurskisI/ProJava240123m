@@ -1,4 +1,4 @@
-package JavaSummary.lesson01;
+package javaSummary.lesson01;
 
 public class CatDog extends Dog {
     public void catDogVoice(){

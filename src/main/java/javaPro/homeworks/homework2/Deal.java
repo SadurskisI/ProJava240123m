@@ -3,11 +3,12 @@ package javaPro.homeworks.homework2;
 import java.util.Random;
 import java.util.Scanner;
 
-import static javaPro.homeworks.homework2.CardNumber.getNumberOfCards;
+import static javaPro.homeworks.homework2.Deck.deckShuffle;
+import static javaPro.homeworks.homework2.Deck.gameDeck;
 import static javaPro.homeworks.homework2.Deck.getDeck;
-import static javaPro.homeworks.homework2.GameDeck.gameDeck;
+import static javaPro.homeworks.homework2.Deck.getNumberOfCards;
 import static javaPro.homeworks.homework2.Players.getPlayers;
-import static javaPro.homeworks.homework2.Shuffle.deckShuffle;
+
 
 public class Deal {
     public static void main(String[] args) {

@@ -42,4 +42,8 @@ public class Book implements Cloneable{
     public void setAuthor(Author author) {
         this.author = author;
     }
+//    @Override
+//    protected Object clone() throws CloneNotSupportedException {
+//        return super.clone();
+//    }
 }
