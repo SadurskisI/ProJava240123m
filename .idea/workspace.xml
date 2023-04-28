@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="100bec65-eb4c-4b65-b068-fdfaca239894" name="Changes" comment="Java pro lessons">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework2/CardNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework2/Deal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework2/Deck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework2/GameDeck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework2/Players.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework2/Rank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework2/Shuffle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework2/Suits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson4/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson4/task1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson4/task2/AutoboxingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson4/task3/AutoboxingMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson4/task4/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson4/task4/SquareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson4/task5/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson4/task5/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson4/task5/BookTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaPro/lesson03/task3/Deal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson03/task3/Deal.java" afterDir="false" />
-    </list>
+    <list default="true" id="100bec65-eb4c-4b65-b068-fdfaca239894" name="Changes" comment="Java pro lessons" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -223,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682421239442</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Java pro lessons">
+      <created>1682605136871</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682605136871</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -7,7 +7,7 @@ public class Author {
         this.name = name;
     }
 
-    public Author(Author author){
+    public Author(Author author) {
         this.name = author.getName();
     }
 

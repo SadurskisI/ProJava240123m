@@ -10,9 +10,21 @@ public class Book implements Cloneable{
         this.author = author;
     }
 
+    private Book() {
+
+    }
+
     public Book(Book book) {
         this.name = book.getName();
         this.author = new Author(book.getAuthor());
+    }
+
+    public Book clone() {
+        Book book = new Book();
+        book.setName(this.name);
+        Author author1 = new Author(this.author);
+        book.setAuthor(author1);
+        return book;
     }
 
     public String getName() {
@@ -29,10 +41,5 @@ public class Book implements Cloneable{
 
     public void setAuthor(Author author) {
         this.author = author;
-    }
-
-    @Override
-    protected Object clone() throws CloneNotSupportedException {
-        return super.clone();
     }
 }
