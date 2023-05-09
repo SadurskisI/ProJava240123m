@@ -1,4 +1,4 @@
-package javaPro.lesson4.task3;
+package javaPro.lesson04.task3;
 
 public class AutoboxingMethods {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package javaPro.lesson4.task5;
+package javaPro.lesson04.task5;
 
 public class Author {
     private String name;

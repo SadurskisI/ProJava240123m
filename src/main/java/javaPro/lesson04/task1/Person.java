@@ -1,4 +1,4 @@
-package javaPro.lesson4.task1;
+package javaPro.lesson04.task1;
 
 public class Person {
 

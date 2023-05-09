@@ -1,7 +1,7 @@
 package javaSummary.lesson02;
 
-import javaPro.lesson4.task5.Author;
-import javaPro.lesson4.task5.Book;
+import javaPro.lesson04.task5.Author;
+import javaPro.lesson04.task5.Book;
 
 public class CloneExample {
     public static void main(String[] args) {
