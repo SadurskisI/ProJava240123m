@@ -79,13 +79,13 @@
       <recent name="C:\Users\User\IdeaProjects\ProJava240123m\src\main\java\javaSummary\lesson02\shoppingList\businessLogic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StudentsTest">
-    <configuration name="IteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPro.lesson07.task2.IteratorDemo" />
+  <component name="RunManager" selected="Application.AlgorithmTimeTest">
+    <configuration name="AlgorithmTimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPro.homeworks.homework5.task1.AlgorithmTimeTest" />
       <module name="ProJava240123m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPro.lesson07.task2.*" />
+          <option name="PATTERN" value="javaPro.homeworks.homework5.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AlgorithmTimeTest" />
         <item itemvalue="Application.StudentsTest" />
         <item itemvalue="Application.ListTest" />
         <item itemvalue="Application.SpliteratorTest" />
         <item itemvalue="Application.ListIteratorTest" />
-        <item itemvalue="Application.IteratorDemo" />
       </list>
     </recent_temporary>
   </component>
