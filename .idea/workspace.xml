@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="100bec65-eb4c-4b65-b068-fdfaca239894" name="Changes" comment="Java pro lessons">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPractice/myLinkedList/task1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework4/task1/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework4/task2/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework4/task2/StudentsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework5/task1/AlgorithmTimeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson08/task1/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson08/task1/MyLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework4/Students.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework4/StudentsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework5/task1/AlgorithmTimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework5/task1/AlgorithmTimeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -251,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683629228023</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Java pro lessons">
+      <created>1683878055011</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1683878055011</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
