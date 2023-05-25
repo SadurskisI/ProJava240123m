@@ -5,20 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="100bec65-eb4c-4b65-b068-fdfaca239894" name="Changes" comment="Java pro lessons">
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/lesson1/bubbleSorting/BubbleSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson09/task1/SetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson09/task1/SortedSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson09/task2/ConcurrentSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson09/task3/HashSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson09/task4/ArrayToSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson09/task4/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson10/task1/PrimitiveComparing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson10/task2/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson10/task2/CatComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson10/task2/CatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson11/task2/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson11/task3/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson11/task4/QueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson11/task5/ArrayDequeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson11/task5/MyArrayDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson11/task5/MyDeque.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaPro/lesson08/task1/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson08/task1/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaPro/lesson11/task2/StackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson11/task2/StackTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -55,6 +48,9 @@
         <option name="url" value="https://github.com/SadurskisI/ProJava240123m.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/corretto-11.0.19/lib/src.zip!/java.base/java/util/Stack.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -91,13 +87,13 @@
       <recent name="C:\Users\User\IdeaProjects\ProJava240123m\src\main\java\javaSummary\lesson02\shoppingList\businessLogic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CatTest">
-    <configuration name="BubbleSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.lesson1.bubbleSorting.BubbleSorting" />
+  <component name="RunManager" selected="Application.ArrayDequeTest">
+    <configuration name="ArrayDequeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPro.lesson11.task5.ArrayDequeTest" />
       <module name="ProJava240123m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithms.lesson1.bubbleSorting.*" />
+          <option name="PATTERN" value="javaPro.lesson11.task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConcurrentSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPro.lesson09.task2.ConcurrentSetTest" />
+    <configuration name="QueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPro.lesson11.task4.QueueTest" />
       <module name="ProJava240123m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPro.lesson09.task3.*" />
+          <option name="PATTERN" value="javaPro.lesson11.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPro.lesson09.task3.HashSetTest" />
+    <configuration name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPro.lesson11.task2.StackTest" />
       <module name="ProJava240123m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPro.lesson09.task3.*" />
+          <option name="PATTERN" value="javaPro.lesson11.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPro.lesson09.task4.Test" />
+    <configuration name="javaPro.lesson11.task3.StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPro.lesson11.task3.StackTest" />
       <module name="ProJava240123m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPro.lesson09.task4.*" />
+          <option name="PATTERN" value="javaPro.lesson11.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayDequeTest" />
+        <item itemvalue="Application.QueueTest" />
+        <item itemvalue="Application.javaPro.lesson11.task3.StackTest" />
+        <item itemvalue="Application.StackTest" />
         <item itemvalue="Application.CatTest" />
-        <item itemvalue="Application.BubbleSorting" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.HashSetTest" />
-        <item itemvalue="Application.ConcurrentSetTest" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683889196819</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Java pro lessons">
+      <created>1685001565112</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1685001565112</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,6 +308,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/javaPro/lesson05/task2/SeaBattleTest.java</url>
           <line>10</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javaPro/lesson11/task5/ArrayDequeTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.NoSuchElementException" package="java.util" />
