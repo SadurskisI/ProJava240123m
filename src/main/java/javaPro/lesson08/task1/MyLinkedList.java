@@ -11,12 +11,23 @@ public class MyLinkedList implements Iterable<String> {
         size = 0;
         first = null;
     }
-
-
     public boolean isEmpty() {
         return size == 0;
     }
+    public int size() {
+        return size;
+    }
+    public String get(int index) {
+        if (index < 0 || index >= size) {
+            throw new RuntimeException();
+        }
+        Node current = first;
+        for (int i = 0; i < index; i++) {
+            current = current.next;
+        }
 
+        return current.data;
+    }
     @Override
     public String toString() {
         if (isEmpty()) {
@@ -32,7 +43,6 @@ public class MyLinkedList implements Iterable<String> {
         builder.append("]");
         return builder.toString();
     }
-
     public void add(String string) {
         if (isEmpty()) {
             first = new Node(string, null);
@@ -47,39 +57,19 @@ public class MyLinkedList implements Iterable<String> {
         }
         size++;
     }
-
-    public int size() {
-        return size;
-    }
-
-    public String get(int index) {
-        if (index < 0 || index >= size) {
-            throw new RuntimeException();
-        }
-        Node current = first;
-        for (int i = 0; i < index; i++) {
-            current = current.next;
-        }
-
-        return current.data;
-    }
-
     @Override
     public Iterator<String> iterator() {
         return new MyIterator();
     }
 
+
     public class MyIterator implements Iterator<String> {
         private int cursor = 0;
         private Node current = first;
-
-
         @Override
         public boolean hasNext() {
             return current != null;
         }
-
-
         @Override
         public String next() {
             String result = current.data;

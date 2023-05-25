@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="100bec65-eb4c-4b65-b068-fdfaca239894" name="Changes" comment="Java pro lessons">
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/lesson1/bubbleSorting/BubbleSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson09/task1/SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson09/task1/SortedSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson09/task2/ConcurrentSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson09/task3/HashSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson09/task4/ArrayToSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson09/task4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson10/task1/PrimitiveComparing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson10/task2/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson10/task2/CatComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson10/task2/CatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson11/task2/StackTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework5/task1/AlgorithmTimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPro/homeworks/homework5/task1/AlgorithmTimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaPro/lesson08/task1/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson08/task1/MyLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,13 +91,13 @@
       <recent name="C:\Users\User\IdeaProjects\ProJava240123m\src\main\java\javaSummary\lesson02\shoppingList\businessLogic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AlgorithmTimeTest">
-    <configuration name="AlgorithmTimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPro.homeworks.homework5.task1.AlgorithmTimeTest" />
+  <component name="RunManager" selected="Application.CatTest">
+    <configuration name="BubbleSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.lesson1.bubbleSorting.BubbleSorting" />
       <module name="ProJava240123m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPro.homeworks.homework5.task1.*" />
+          <option name="PATTERN" value="algorithms.lesson1.bubbleSorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListIteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPro.lesson07.task3.ListIteratorTest" />
+    <configuration name="CatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPro.lesson10.task2.CatTest" />
       <module name="ProJava240123m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPro.lesson07.task3.*" />
+          <option name="PATTERN" value="javaPro.lesson10.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPro.lesson08.task1.ListTest" />
+    <configuration name="ConcurrentSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPro.lesson09.task2.ConcurrentSetTest" />
       <module name="ProJava240123m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPro.lesson08.task1.*" />
+          <option name="PATTERN" value="javaPro.lesson09.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpliteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPro.lesson07.task4.SpliteratorTest" />
+    <configuration name="HashSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPro.lesson09.task3.HashSetTest" />
       <module name="ProJava240123m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPro.lesson07.task4.*" />
+          <option name="PATTERN" value="javaPro.lesson09.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPro.homeworks.homework4.task2.StudentsTest" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPro.lesson09.task4.Test" />
       <module name="ProJava240123m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPro.homeworks.homework4.task2.*" />
+          <option name="PATTERN" value="javaPro.lesson09.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AlgorithmTimeTest" />
-        <item itemvalue="Application.StudentsTest" />
-        <item itemvalue="Application.ListTest" />
-        <item itemvalue="Application.SpliteratorTest" />
-        <item itemvalue="Application.ListIteratorTest" />
+        <item itemvalue="Application.CatTest" />
+        <item itemvalue="Application.BubbleSorting" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.HashSetTest" />
+        <item itemvalue="Application.ConcurrentSetTest" />
       </list>
     </recent_temporary>
   </component>
@@ -250,11 +262,36 @@
       <option name="project" value="LOCAL" />
       <updated>1683878055011</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Java pro lessons">
+      <created>1683888980903</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1683888980903</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Java pro lessons">
+      <created>1683889196819</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1683889196819</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ProJava lesson 1" />
