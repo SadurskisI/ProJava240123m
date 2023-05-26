@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="100bec65-eb4c-4b65-b068-fdfaca239894" name="Changes" comment="Java pro lessons">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson11/task3/StackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson11/task4/QueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson11/task5/ArrayDequeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson11/task5/MyArrayDeque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson11/task5/MyDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson06/smallProject/ProductApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson06/smallProject/businessLogic/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson06/smallProject/database/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson06/smallProject/database/ProductRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson06/smallProject/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson06/smallProject/ui/AddProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson06/smallProject/ui/ExitMenuCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson06/smallProject/ui/GetAllProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson06/smallProject/ui/MenuCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaSummary/lesson06/smallProject/ui/UserMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaPro/lesson11/task2/StackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson11/task2/StackTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,8 +90,11 @@
       <recent name="C:\Users\User\IdeaProjects\ProJava240123m\src\main\java\javaSummary\lesson02\shoppingList\database" />
       <recent name="C:\Users\User\IdeaProjects\ProJava240123m\src\main\java\javaSummary\lesson02\shoppingList\businessLogic" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="javaSummary.lesson06.smallProject.businessLogic" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayDequeTest">
+  <component name="RunManager" selected="Application.ProductApp">
     <configuration name="ArrayDequeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaPro.lesson11.task5.ArrayDequeTest" />
       <module name="ProJava240123m" />
@@ -101,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPro.lesson10.task2.CatTest" />
+    <configuration name="ProductApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaSummary.lesson06.smallProject.ProductApp" />
       <module name="ProJava240123m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPro.lesson10.task2.*" />
+          <option name="PATTERN" value="javaSummary.lesson06.smallProject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProductApp" />
         <item itemvalue="Application.ArrayDequeTest" />
         <item itemvalue="Application.QueueTest" />
         <item itemvalue="Application.javaPro.lesson11.task3.StackTest" />
         <item itemvalue="Application.StackTest" />
-        <item itemvalue="Application.CatTest" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685001565112</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Java pro lessons">
+      <created>1685011851819</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1685011851819</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,11 +322,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/javaPro/lesson05/task2/SeaBattleTest.java</url>
           <line>10</line>
           <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/javaPro/lesson11/task5/ArrayDequeTest.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.NoSuchElementException" package="java.util" />
