@@ -1,17 +1,21 @@
 package algorithms.homework.homework2;
 
 public class Tower {
-        public static void main(String[] args) {
-            int nDisks = 3;
-            TowerSolve(nDisks, "Left", "Middle", "Right");
+        public static void main(String[] args) throws Exception {
+
+            towerSolve(3, "A","C","B");
         }
-        public static void TowerSolve(int topN, String from, String inter, String  to) {
-            if (topN == 1) {
-                System.out.println("Plate 1 from " + from + " to " + to);
-            } else {
-                TowerSolve(topN - 1, from, to, inter);
-                System.out.println("Plate " + topN + " from " + from + " to " + to);
-                TowerSolve(topN - 1, inter, from, to);
+
+
+        public static void towerSolve(int n, String A,String C,String B) throws Exception {
+            if (n <=0) throw new Exception("the number should be positive");
+            if (n == 1){
+                System.out.println("Move - " + A + " to - " + C);
+            }
+            else {
+                towerSolve(n - 1, A, B, C);
+                System.out.println("Move - " + A + " to - " + C);
+                towerSolve(n -1, B, C, A);
             }
         }
     }
