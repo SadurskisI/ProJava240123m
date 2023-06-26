@@ -8,7 +8,7 @@ public class Tower {
 
 
         public static void towerSolve(int n, String A,String C,String B) throws Exception {
-            if (n <=0) throw new Exception("the number should be positive");
+            if (n <= 0) throw new Exception("the number should be positive");
             if (n == 1){
                 System.out.println("Move - " + A + " to - " + C);
             }
