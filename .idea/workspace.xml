@@ -4,13 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="100bec65-eb4c-4b65-b068-fdfaca239894" name="Changes" comment="Algorithms">
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/homework/homework3/ArraySortCombine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/lessson3/task1/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson18/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson18/task2/Main.java" afterDir="false" />
+    <list default="true" id="100bec65-eb4c-4b65-b068-fdfaca239894" name="Changes" comment="Java Pro">
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/lessson3/task1/MergeAndCombine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson20/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson20/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson20/task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson20/task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson20/task5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson20/task6/FileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson21/task1/ExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson21/task2/inputStreamTest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson21/task3/OutputStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson21/task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskDir/test.AVI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskDir/test.JPEG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskDir/test.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskDir/test.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskDir/test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taskDir/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testDir/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testDir/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testDir/testFile.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/homework/homework2/Tower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithms/homework/homework2/Tower.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +78,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -92,13 +108,13 @@
       <recent name="javaSummary.lesson06.smallProject.businessLogic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinarySearch">
-    <configuration name="ArraySortCombine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.homework.homework3.ArraySortCombine" />
+  <component name="RunManager" selected="Application.javaPro.lesson21.task4.Main">
+    <configuration name="ExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPro.lesson21.task1.ExceptionTest" />
       <module name="ProJava240123m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithms.homework.homework3.*" />
+          <option name="PATTERN" value="javaPro.lesson21.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.lessson3.task1.BinarySearch" />
+    <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPro.lesson20.task6.FileTest" />
       <module name="ProJava240123m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithms.lessson3.task1.*" />
+          <option name="PATTERN" value="javaPro.lesson20.task6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.homework.homework2.Tower" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPro.lesson21.task2.inputStreamTest.Main" />
       <module name="ProJava240123m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithms.homework.homework2.*" />
+          <option name="PATTERN" value="javaPro.lesson21.task2.inputStreamTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaPro.lesson18.task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPro.lesson18.task1.Main" />
+    <configuration name="OutputStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPro.lesson21.task3.OutputStreamTest" />
       <module name="ProJava240123m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPro.lesson18.task1.*" />
+          <option name="PATTERN" value="javaPro.lesson21.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaPro.lesson18.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPro.lesson18.task2.Main" />
+    <configuration name="javaPro.lesson21.task4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPro.lesson21.task4.Main" />
       <module name="ProJava240123m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPro.lesson18.task2.*" />
+          <option name="PATTERN" value="javaPro.lesson21.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.ArraySortCombine" />
-        <item itemvalue="Application.javaPro.lesson18.task2.Main" />
-        <item itemvalue="Application.javaPro.lesson18.task1.Main" />
-        <item itemvalue="Application.Tower" />
+        <item itemvalue="Application.javaPro.lesson21.task4.Main" />
+        <item itemvalue="Application.OutputStreamTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ExceptionTest" />
+        <item itemvalue="Application.FileTest" />
       </list>
     </recent_temporary>
   </component>
@@ -347,7 +363,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687163718278</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Algorithms">
+      <created>1687773336087</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1687773336087</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Java Pro">
+      <created>1687773362008</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1687773362008</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -365,12 +395,14 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="ProJava lesson 1" />
     <MESSAGE value="Java pro lessons" />
     <MESSAGE value="Java summary" />
     <MESSAGE value="Java pro" />
     <MESSAGE value="Algorithms" />
-    <option name="LAST_COMMIT_MESSAGE" value="Algorithms" />
+    <MESSAGE value="Java Pro" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Pro" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
