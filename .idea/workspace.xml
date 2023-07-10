@@ -4,19 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="100bec65-eb4c-4b65-b068-fdfaca239894" name="Changes" comment="Java Pro">
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/lesson4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/lesson4/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson22/task1/CompileFlagTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson22/task1/DelimiterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson22/task1/MatcherTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson22/task1/PatternTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson22/task1/RegExTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson22/task2/EmailTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson22/task3/Main.java" afterDir="false" />
+    <list default="true" id="100bec65-eb4c-4b65-b068-fdfaca239894" name="Changes" comment="Algorithms">
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/homework/homework4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson23/task1/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson23/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson23/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson23/task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson23/task3/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson23/task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson23/task5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson23/task5/NumberUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson23/task6/Audi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson23/task6/Bmw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson23/task6/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson23/task6/Honda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson23/task6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson23/task6/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson23/task6/VehicleUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson23/task7/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson23/task7/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson23/task7/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson23/task7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaPro/lesson23/task7/Orange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/lessson3/task1/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithms/lesson3/task1/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/lessson3/task1/MergeAndCombine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithms/lesson3/task1/MergeAndCombine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,51 +110,12 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
-    <configuration name="CompileFlagTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPro.lesson22.task1.CompileFlagTest" />
-      <module name="ProJava240123m" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaPro.lesson22.task1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DelimiterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPro.lesson22.task1.DelimiterTest" />
-      <module name="ProJava240123m" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaPro.lesson22.task1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EmailTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPro.lesson22.task2.EmailTest" />
-      <module name="ProJava240123m" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaPro.lesson22.task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPro.lesson22.task3.Main" />
+      <option name="MAIN_CLASS_NAME" value="javaPro.lesson23.task7.Main" />
       <module name="ProJava240123m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPro.lesson22.task3.*" />
+          <option name="PATTERN" value="javaPro.lesson23.task7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +123,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegExTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaPro.lesson22.task1.RegExTest" />
+    <configuration name="javaPro.lesson23.task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPro.lesson23.task3.Main" />
       <module name="ProJava240123m" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaPro.lesson22.task1.*" />
+          <option name="PATTERN" value="javaPro.lesson23.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javaPro.lesson23.task4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPro.lesson23.task4.Main" />
+      <module name="ProJava240123m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaPro.lesson23.task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javaPro.lesson23.task5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPro.lesson23.task5.Main" />
+      <module name="ProJava240123m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaPro.lesson23.task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javaPro.lesson23.task6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPro.lesson23.task6.Main" />
+      <module name="ProJava240123m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaPro.lesson23.task6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,10 +178,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.EmailTest" />
-        <item itemvalue="Application.DelimiterTest" />
-        <item itemvalue="Application.RegExTest" />
-        <item itemvalue="Application.CompileFlagTest" />
+        <item itemvalue="Application.javaPro.lesson23.task6.Main" />
+        <item itemvalue="Application.javaPro.lesson23.task5.Main" />
+        <item itemvalue="Application.javaPro.lesson23.task4.Main" />
+        <item itemvalue="Application.javaPro.lesson23.task3.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +385,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688061320873</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Java Pro">
+      <created>1688471998398</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1688471998398</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Algorithms">
+      <created>1688472017834</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1688472017834</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -398,9 +422,9 @@
     <MESSAGE value="Java pro lessons" />
     <MESSAGE value="Java summary" />
     <MESSAGE value="Java pro" />
-    <MESSAGE value="Algorithms" />
     <MESSAGE value="Java Pro" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Pro" />
+    <MESSAGE value="Algorithms" />
+    <option name="LAST_COMMIT_MESSAGE" value="Algorithms" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
