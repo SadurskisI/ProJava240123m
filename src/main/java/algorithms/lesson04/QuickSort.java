@@ -1,4 +1,4 @@
-package algorithms.lesson4;
+package algorithms.lesson04;
 
 import java.util.ArrayList;
 import java.util.Arrays;

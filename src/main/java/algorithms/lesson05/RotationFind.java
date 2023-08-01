@@ -1,3 +1,5 @@
+package algorithms.lesson05;
+
 class Main {
     public static int findRotationCount(int[] arr) {
 

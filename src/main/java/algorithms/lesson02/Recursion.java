@@ -1,4 +1,4 @@
-package algorithms.lesson2;
+package algorithms.lesson02;
 
 public class Recursion {
     public static void main(String[] args) throws Exception {
